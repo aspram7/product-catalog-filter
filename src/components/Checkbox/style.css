@@ -1,0 +1,13 @@
+.checkbox-container {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  height: 30px;
+
+  .checkbox-label {
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 10px;
+    height: 25px;
+  }
+}
